@@ -1,5 +1,5 @@
-## Hello, I'm Said 👋 <img align="left" width="275" height="165" src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" alt="animation svg waving the hand to say hi" />
-## 😄 Pronouns: He/Him
+### Hello, I'm Said 👋 <img align="left" width="275" height="165" src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" alt="animation svg waving the hand to say hi" />
+### 😄 Pronouns: He/Him
 If you want to know more about and my experience me go to my <a href="https://saidatr.dev/">personal website</a>, right now it's only on Spanish.
 
 I'm brainstorming the new design and one of the goals is to make the internationalization.
