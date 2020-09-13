@@ -12,4 +12,4 @@ I'm actually employee as Mid-Senior FullStack Developer on Redradix, but on my s
 - Building offline-first and local WebApps using CRA with xState. The project is the tracking of rest time for the gym.
 - Elixir, Phoenix (LiveView and AlpineJS) and Ecto with my project to finish my university.
 
-The gif was made using <a href="https://github.com/yemount/pose-animator/">PoseAnimator</a>. I recored my screen with Quicktime and convert the video as gif.
+The gif was made using <a href="https://github.com/yemount/pose-animator/">PoseAnimator</a>. I recorded my screen with Quicktime and convert the video to gif.
