@@ -6,7 +6,7 @@ I'm brainstorming the new design and one of the goals is to make the internation
 
 #### 🔭 I’m currently working on:
 I'm actually employee as Mid-Senior FullStack Developer on Redradix, but on my spare time I am working on:
-  - Integrate the project *BenaventePeluqueros* with the dashboard I made, for the same hairdresser. Mi final goal is to create a SaaS, with of selfhosted. This is my project to end my university. Finished the design phase to integrate both projects.
+  - Integrate the project *BenaventePeluqueros* with the dashboard I made, for the same hairdresser. My final goal is to create a SaaS, with of selfhosted. This is my project to end my university. Finished the design phase to integrate both projects.
   - Building an app to track my rest time between series and exercises in the gym.
 #### 🌱 I’m currently learning:
 - Building offline-first and local WebApps using CRA with xState. The project is the tracking of rest time for the gym.
