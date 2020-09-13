@@ -1,7 +1,7 @@
-![](hello.gif)
-### Hello, I'm Said 👋
-### 😄 Pronouns: He/Him
-If you want to know more about and my experience me go to my personal websilte, right now it's only on Spanish.
+<img align="left" src="https://raw.githubusercontent.com/Afsoon/Afsoon/master/hello.gif?raw=true" alt="animation svg waving the hand to say hi">
+## Hello, I'm Said 👋
+## 😄 Pronouns: He/Him
+If you want to know more about and my experience me go to my <a href="https://saidatr.dev/">personal website</a>, right now it's only on Spanish.
 
 I'm brainstorming the new design and one of the goals is to make the internationalization, Spanish and English.
 
@@ -12,3 +12,5 @@ I'm actually employee as Mid-Senior FullStack Developer on Redradix, but on my s
 #### 🌱 I’m currently learning:
 - Building offline-first and local WebApps using CRA with xState. The project is the tracking of rest time for the gym.
 - Elixir, Phoenix (LiveView and AlpineJS) and Ecto with my project to finish my university.
+
+The gif was made using <a href="https://github.com/yemount/pose-animator/">PoseAnimator</a>. I recored my screen with Quicktime and convert the video as gif.
