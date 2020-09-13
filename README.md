@@ -2,7 +2,7 @@
 #### 😄 Pronouns: He/Him
 If you want to know more about and my experience me go to my <a href="https://saidatr.dev/">personal website</a>, right now it's only on Spanish.
 
-I'm brainstorming the new design and one of the goals is to make the internationalization, Spanish and English.
+I'm brainstorming the new design and one of the goals is to make the internationalization.
 
 #### 🔭 I’m currently working on:
 I'm actually employee as Mid-Senior FullStack Developer on Redradix, but on my spare time I am working on:
