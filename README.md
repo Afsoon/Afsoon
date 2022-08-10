@@ -5,7 +5,7 @@ If you want to know more about and my experience me go to my <a href="https://sa
 I'm brainstorming the new design for the update.
 
 #### 🔭 I’m currently working on:
-I'm actually employee as Frontend Developer on Streamloots, but on my spare time I am working on:
+I'm actually employee as Full Stack Engineer at Mattermost, but on my spare time I am working on:
   - A small productivity webapp that focus less in gamification and more in introspection.
 #### 🌱 I’m currently learning:
 - <a href="https://remix.run/">Remix</a>.
