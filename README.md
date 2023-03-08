@@ -9,8 +9,10 @@ I'm actually employee as Full Stack Engineer at Mattermost, but on my spare time
   - A small productivity webapp that focus less in gamification and more in introspection.
 #### 🌱 I’m currently learning:
 - <a href="https://remix.run/">Remix</a>.
-- Improving my typescript with <a href="https://github.com/type-challenges/type-challenges">type challenges</a> and articles related to TS type system. Waiting the <a href="https://www.mattpocock.com/">Advanced Typescript course from Matt Pocock</a>.
-- Re doing <a href="https://css-for-js.dev/">CSS for JS</a> course.
 - In my spare time, trying to learn Blender.
-
+- <a href="https://www.ardanlabs.com/training/ultimate-go/#on-demand">Ultimate Go Course</a>
 The gif was made using <a href="https://github.com/yemount/pose-animator/">PoseAnimator</a>. I recorded my screen with Quicktime and convert the video to gif.
+
+#### Courses completes
+- CSS For JS
+- Total Typescript
