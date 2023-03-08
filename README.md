@@ -11,6 +11,7 @@ I'm actually employee as Full Stack Engineer at Mattermost, but on my spare time
 - <a href="https://remix.run/">Remix</a>.
 - In my spare time, trying to learn Blender.
 - <a href="https://www.ardanlabs.com/training/ultimate-go/#on-demand">Ultimate Go Course</a>
+
 The gif was made using <a href="https://github.com/yemount/pose-animator/">PoseAnimator</a>. I recorded my screen with Quicktime and convert the video to gif.
 
 #### Courses completes
