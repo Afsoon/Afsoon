@@ -6,6 +6,7 @@ If you want to know more about my experience, go to my <a href="https://www.link
 I'm an employee as a Senior Product Engineer at Alhona, but in my spare time, I am working on:
   - An Excel dashboard to help my boyfriend's hairdresser.
   - An Excel for tracking gymn progress for my trainer.
+
 All those excel will become a web app.
 #### 🌱 I'm currently learning:
 Right now, my focus is:
