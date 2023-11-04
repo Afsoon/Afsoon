@@ -14,4 +14,9 @@ Right now, my focus is:
 
 #### Courses completes
 - CSS For JS
-- Total Typescript
+- [Total Typescript](https://twitter.com/SaidAtrahouch/status/1643163337797115904)
+
+<img width="592" alt="imagen" src="https://github.com/Afsoon/Afsoon/assets/713534/a49fd023-c71e-4d2e-8770-1e8d66eec5da">
+
+[Go to the tweet](https://twitter.com/mattpocockuk/status/1623688104912515073)
+
