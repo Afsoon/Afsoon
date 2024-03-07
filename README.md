@@ -4,10 +4,13 @@ If you want to know more about my experience, go to my <a href="https://www.link
 
 #### 🔭 I’m currently working on:
 I'm an employee as a Senior Product Engineer at Alhona, but in my spare time, I am working on:
-  - An Excel dashboard to help my boyfriend's hairdresser.
+  - Improving the accounting system:
+    - (Research Phase): Using NoCode and LLM to understand PDFs and populate a Google Spreadsheet with the expenses and incomes.
+    - (Research Phase): Create a bot using playwright to sync calendars between Google Calendar and Uala Bussiness.
   - An Excel for tracking gymn progress for my trainer.
+    -  [Done]: Excel to fill with the weights we lifted at gym.
+    -  [Research phase]: Designing the MVP for the app.  
 
-All those excel will become a web app.
 #### 🌱 I'm currently learning:
 Right now, my focus is:
 - Learning K8s, I'm focusing on the necessary knowledge as a developer.
