@@ -5,7 +5,6 @@ If you want to know more about my experience, go to my <a href="https://www.link
 #### 🌱 I'm currently learning:
 Right now, my focus is:
 - Rust
-- Clickhouse
 
 #### Courses completes
 - CSS For JS
