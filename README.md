@@ -4,7 +4,7 @@ If you want to know more about my experience, go to my <a href="https://www.link
 
 #### 🌱 I'm currently learning:
 Right now, my focus is:
-- Rust
+- Rust: Doing contributions to Oxlint, [currently working in the bulk suppressions feature](https://github.com/oxc-project/oxc/pull/19328)
 
 #### Courses completes
 - CSS For JS
